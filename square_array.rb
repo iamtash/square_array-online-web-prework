@@ -4,5 +4,3 @@ def square_array(array)
     array_squared << number ** 2
   end
 end
-
-
